@@ -1,0 +1,17 @@
+body{
+    width: 100%;
+    margin: 0px;
+    height: 100%;
+    background: rgb(51,255,223);
+    background: radial-gradient(circle, rgba(51,255,223,1) 0%, rgba(48,162,214,1) 54%, rgba(33,113,149,1) 100%);     text-align: center;
+}
+
+img{
+    height: 40%;
+    width: 40%;
+    margin-top: 10%;
+}
+
+audio{
+    display: none;
+}
